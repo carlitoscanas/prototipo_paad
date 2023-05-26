@@ -1,0 +1,1 @@
+Los notebooks contenidos en esta carpeta se colocan como elementos complementarios al código fuente de la aplicación, ya que fueron utilizados durante el proceso de construcción para tareas de exploración, pruebas, etc., y podrían ser de utilidad, en caso la solución se decida implementar.
