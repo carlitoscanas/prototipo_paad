@@ -1,1 +1,3 @@
-Los notebooks contenidos en esta carpeta se colocan como elementos complementarios al código fuente de la aplicación, ya que fueron utilizados durante el proceso de construcción para tareas de exploración, pruebas, etc., y podrían ser de utilidad, en caso la solución se decida implementar.
+### Consideraciones a tener sobre el código contenido en esta carpeta:
+
+Los notebooks contenidos en esta carpeta se colocan como elementos complementarios al código fuente de la aplicación (la aplicación no depende de ellos), ya que fueron utilizados durante el desarrollo del proyecto para tareas de exploración, pruebas, etc., y podrían ser de utilidad, en caso la solución se decida implementar, o para su eventual evolución y mantenimiento.
